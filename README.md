@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/rajib.29">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your--URL">
+  <a href="https://www.facebook.com/rajib.bishal.2903">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -63,6 +63,9 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 ![Rajib Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibishal&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibishal&layout=compact)
+---
+### :thought_balloon: Quote of the Day :
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 ---
 
 ### :writing_hand: Blog Posts :
