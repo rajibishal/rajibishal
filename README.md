@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of Computer Science and Engineering<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web Development, Python & Flutter <br>💬 Exploring Technical Content Writing.<br>⚡ In my free time, I do some online short courses and read tech articles.
+🔭 Currently a student of Computer Science and Engineering<br>🌱 Learning Web Development, Python & Flutter <br>💬 Exploring Technical Content Writing.<br>⚡ In my free time, I do some online short courses and read tech articles.
 
 
 ## 🌐 Socials:
